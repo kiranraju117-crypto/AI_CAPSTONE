@@ -1,0 +1,128 @@
+[
+  {
+    "id": "det_d230e3cf",
+    "subject": "Congratulations! your account on the Accenture recruitment portal has been created successfully.",
+    "body": "Login Details:\n\nPortal URL: https://indiacampus.accenture.com/myzone/accenture/auth/login\nUser Name: velugukiran527@gmail.com\n\nTo set your password: \nGo to the portal login page. \nClick on \"Forgot Password\".\nGenerate OTP and create a new password.\nAccessing Support: \nCheck our FAQ.\nCall: +91 6366524235\nUse the Chat Box or raise a ticket on the portal\nAccessing Support: \nLog in to the portal.\nClick on Support.\nSelect Category and view FAQs.\nIf unresolved, raise a ticket or chat with us.\nTips:\n- Use Chrome for the best experience.\n- If you have existing portal access, use the same credentials.\n\nSecurity Reminder: Do not share your personal information, login credentials, or OTP with anyone.\n\nWish you all the best!\n\nRegards\nRecruitment Team\nAccenture in India\n\nPlease note, that unless a formal employment offer is provided to candidate specifically determining the terms of employment with Accenture, nothing contained in an email or any identified processes for the purpose of candidate\u2019s participation in the interview process shall be considered as an offer for employment by Accenture notwithstanding any contents or communications mentioned in process documents or links.\n\nPlease be further informed that existence of an offer or offering any employment to a candidate shall be subject to business needs within Accenture or client requirements; mere clearance of any processes related to campus hiring does not by itself create an offer of employment for the candidate.",
+    "classification": "spam",
+    "confidence": 0.6577,
+    "spamProbability": 0.6577,
+    "model": "Random Forest",
+    "date": "2026-09-04T14:08:19.871910+00:00",
+    "indicators": [
+      "offer",
+      "best",
+      "click",
+      "security",
+      "account"
+    ],
+    "explanation": "The real Random Forest classifier flagged this email as SPAM with 65.8% confidence. Detected high-risk spam indicators ('offer, best, click') closely match patterns learned from the authentic email training dataset."
+  },
+  {
+    "id": "det_9918be2e",
+    "subject": "Congratulations! your account on the Accenture recruitment portal has been created successfully.",
+    "body": "Login Details:\n\nPortal URL: https://indiacampus.accenture.com/myzone/accenture/auth/login\nUser Name: velugukiran527@gmail.com\n\nTo set your password: \nGo to the portal login page. \nClick on \"Forgot Password\".\nGenerate OTP and create a new password.\nAccessing Support: \nCheck our FAQ.\nCall: +91 6366524235\nUse the Chat Box or raise a ticket on the portal\nAccessing Support: \nLog in to the portal.\nClick on Support.\nSelect Category and view FAQs.\nIf unresolved, raise a ticket or chat with us.\nTips:\n- Use Chrome for the best experience.\n- If you have existing portal access, use the same credentials.\n\nSecurity Reminder: Do not share your personal information, login credentials, or OTP with anyone.\n\nWish you all the best!\n\nRegards\nRecruitment Team\nAccenture in India\n\nPlease note, that unless a formal employment offer is provided to candidate specifically determining the terms of employment with Accenture, nothing contained in an email or any identified processes for the purpose of candidate\u2019s participation in the interview process shall be considered as an offer for employment by Accenture notwithstanding any contents or communications mentioned in process documents or links.\n\nPlease be further informed that existence of an offer or offering any employment to a candidate shall be subject to business needs within Accenture or client requirements; mere clearance of any processes related to campus hiring does not by itself create an offer of employment for the candidate.",
+    "classification": "spam",
+    "confidence": 0.6091,
+    "spamProbability": 0.6091,
+    "model": "Logistic Regression",
+    "date": "2026-09-04T14:08:14.917709+00:00",
+    "indicators": [
+      "offer",
+      "best",
+      "click",
+      "security",
+      "account"
+    ],
+    "explanation": "The real Logistic Regression classifier flagged this email as SPAM with 60.9% confidence. Detected high-risk spam indicators ('offer, best, click') closely match patterns learned from the authentic email training dataset."
+  },
+  {
+    "id": "det_53e85162",
+    "subject": "Congratulations! your account on the Accenture recruitment portal has been created successfully.",
+    "body": "Login Details:\n\nPortal URL: https://indiacampus.accenture.com/myzone/accenture/auth/login\nUser Name: velugukiran527@gmail.com\n\nTo set your password: \nGo to the portal login page. \nClick on \"Forgot Password\".\nGenerate OTP and create a new password.\nAccessing Support: \nCheck our FAQ.\nCall: +91 6366524235\nUse the Chat Box or raise a ticket on the portal\nAccessing Support: \nLog in to the portal.\nClick on Support.\nSelect Category and view FAQs.\nIf unresolved, raise a ticket or chat with us.\nTips:\n- Use Chrome for the best experience.\n- If you have existing portal access, use the same credentials.\n\nSecurity Reminder: Do not share your personal information, login credentials, or OTP with anyone.\n\nWish you all the best!\n\nRegards\nRecruitment Team\nAccenture in India\n\nPlease note, that unless a formal employment offer is provided to candidate specifically determining the terms of employment with Accenture, nothing contained in an email or any identified processes for the purpose of candidate\u2019s participation in the interview process shall be considered as an offer for employment by Accenture notwithstanding any contents or communications mentioned in process documents or links.\n\nPlease be further informed that existence of an offer or offering any employment to a candidate shall be subject to business needs within Accenture or client requirements; mere clearance of any processes related to campus hiring does not by itself create an offer of employment for the candidate.",
+    "classification": "spam",
+    "confidence": 0.982,
+    "spamProbability": 0.982,
+    "model": "Multinomial Naive Bayes",
+    "date": "2026-09-04T14:08:11.771559+00:00",
+    "indicators": [
+      "offer",
+      "best",
+      "click",
+      "security",
+      "account"
+    ],
+    "explanation": "The real Multinomial Naive Bayes classifier flagged this email as SPAM with 98.2% confidence. Detected high-risk spam indicators ('offer, best, click') closely match patterns learned from the authentic email training dataset."
+  },
+  {
+    "id": "det_d330cd2c",
+    "subject": "Congratulations! your account on the Accenture recruitment portal has been created successfully.",
+    "body": "Login Details:\n\nPortal URL: https://indiacampus.accenture.com/myzone/accenture/auth/login\nUser Name: velugukiran527@gmail.com\n\nTo set your password: \nGo to the portal login page. \nClick on \"Forgot Password\".\nGenerate OTP and create a new password.\nAccessing Support: \nCheck our FAQ.\nCall: +91 6366524235\nUse the Chat Box or raise a ticket on the portal\nAccessing Support: \nLog in to the portal.\nClick on Support.\nSelect Category and view FAQs.\nIf unresolved, raise a ticket or chat with us.\nTips:\n- Use Chrome for the best experience.\n- If you have existing portal access, use the same credentials.\n\nSecurity Reminder: Do not share your personal information, login credentials, or OTP with anyone.\n\nWish you all the best!\n\nRegards\nRecruitment Team\nAccenture in India\n\nPlease note, that unless a formal employment offer is provided to candidate specifically determining the terms of employment with Accenture, nothing contained in an email or any identified processes for the purpose of candidate\u2019s participation in the interview process shall be considered as an offer for employment by Accenture notwithstanding any contents or communications mentioned in process documents or links.\n\nPlease be further informed that existence of an offer or offering any employment to a candidate shall be subject to business needs within Accenture or client requirements; mere clearance of any processes related to campus hiring does not by itself create an offer of employment for the candidate.",
+    "classification": "spam",
+    "confidence": 0.982,
+    "spamProbability": 0.982,
+    "model": "Multinomial Naive Bayes",
+    "date": "2026-09-04T14:08:09.102825+00:00",
+    "indicators": [
+      "offer",
+      "best",
+      "click",
+      "security",
+      "account"
+    ],
+    "explanation": "The real Multinomial Naive Bayes classifier flagged this email as SPAM with 98.2% confidence. Detected high-risk spam indicators ('offer, best, click') closely match patterns learned from the authentic email training dataset."
+  },
+  {
+    "id": "det_7a250de5",
+    "subject": "Congratulations! your account on the Accenture recruitment portal has been created successfully.",
+    "body": "Login Details:\n\nPortal URL: https://indiacampus.accenture.com/myzone/accenture/auth/login\nUser Name: velugukiran527@gmail.com\n\nTo set your password: \nGo to the portal login page. \nClick on \"Forgot Password\".\nGenerate OTP and create a new password.\nAccessing Support: \nCheck our FAQ.\nCall: +91 6366524235\nUse the Chat Box or raise a ticket on the portal\nAccessing Support: \nLog in to the portal.\nClick on Support.\nSelect Category and view FAQs.\nIf unresolved, raise a ticket or chat with us.\nTips:\n- Use Chrome for the best experience.\n- If you have existing portal access, use the same credentials.\n\nSecurity Reminder: Do not share your personal information, login credentials, or OTP with anyone.\n\nWish you all the best!\n\nRegards\nRecruitment Team\nAccenture in India\n\nPlease note, that unless a formal employment offer is provided to candidate specifically determining the terms of employment with Accenture, nothing contained in an email or any identified processes for the purpose of candidate\u2019s participation in the interview process shall be considered as an offer for employment by Accenture notwithstanding any contents or communications mentioned in process documents or links.\n\nPlease be further informed that existence of an offer or offering any employment to a candidate shall be subject to business needs within Accenture or client requirements; mere clearance of any processes related to campus hiring does not by itself create an offer of employment for the candidate.",
+    "classification": "spam",
+    "confidence": 0.737,
+    "spamProbability": 0.737,
+    "model": "Linear SVM",
+    "date": "2026-09-04T14:07:59.391850+00:00",
+    "indicators": [
+      "offer",
+      "best",
+      "click",
+      "security",
+      "account"
+    ],
+    "explanation": "The real Linear SVM classifier flagged this email as SPAM with 73.7% confidence. Detected high-risk spam indicators ('offer, best, click') closely match patterns learned from the authentic email training dataset."
+  },
+  {
+    "id": "det_c92727d8",
+    "subject": "Project meeting agenda for next week",
+    "body": "Hi team, please find attached the review notes and agenda for our upcoming sprint planning on Tuesday. Let me know if you have any questions.",
+    "classification": "ham",
+    "confidence": 0.9998,
+    "spamProbability": 0.0002,
+    "model": "Linear SVM",
+    "date": "2026-09-04T13:56:59.023447+00:00",
+    "indicators": [
+      "attached",
+      "questions",
+      "team",
+      "meeting",
+      "week"
+    ],
+    "explanation": "The real Linear SVM classifier marked this email as legitimate (HAM) with 100.0% confidence. The message text lacks characteristic spam features and aligns with normal communication patterns."
+  },
+  {
+    "id": "det_85283909",
+    "subject": "URGENT: Claim your  cash reward now!",
+    "body": "Congratulations! You won the exclusive lottery. Click here to claim your cash prize and free bonus immediately.",
+    "classification": "spam",
+    "confidence": 0.9987,
+    "spamProbability": 0.9987,
+    "model": "Linear SVM",
+    "date": "2026-09-04T13:52:53.744879+00:00",
+    "indicators": [
+      "cash",
+      "click",
+      "claim",
+      "prize",
+      "exclusive"
+    ],
+    "explanation": "The real Linear SVM classifier flagged this email as SPAM with 99.9% confidence. Detected high-risk spam indicators ('cash, click, claim') closely match patterns learned from the authentic email training dataset."
+  }
+]
