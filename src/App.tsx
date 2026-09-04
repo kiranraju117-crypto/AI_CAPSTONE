@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import { Toaster } from 'sonner';
 import { AppLayout } from './components/layout/AppLayout';
 import { DetectionProvider } from './contexts/DetectionContext';
@@ -23,7 +23,7 @@ interface AppProps {
 
 export function App({ defaultModel = 'Linear SVM', seedDemoData = true }: AppProps) {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <DetectionProvider defaultModel={defaultModel} seedDemoData={seedDemoData}>
         <Routes>
           <Route element={<AppLayout />}>
@@ -38,6 +38,6 @@ export function App({ defaultModel = 'Linear SVM', seedDemoData = true }: AppPro
         </Routes>
         <Toaster position="bottom-right" richColors closeButton />
       </DetectionProvider>
-    </BrowserRouter>);
+    </HashRouter>);
 
 }
