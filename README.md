@@ -2,6 +2,11 @@
 
 An end-to-end Machine Learning web application that accurately detects email spam using TF-IDF feature extraction and multiple calibrated classifiers trained on an authentic benchmark dataset.
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_Website-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kiranraju117-crypto.github.io/AI_CAPSTONE/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiranraju117-crypto/AI_CAPSTONE)
+
+> 🔗 **Live Website URL:** **[https://kiranraju117-crypto.github.io/AI_CAPSTONE/](https://kiranraju117-crypto.github.io/AI_CAPSTONE/)**
+
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![React](https://img.shields.io/badge/React-18-61DAFB)
